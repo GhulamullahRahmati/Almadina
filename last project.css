@@ -79,6 +79,4 @@ img{width: auto; height: 200px;
 /* Admision form */
 @media screen and ( max-width:1600px) and ( man-width:480px){
     body{background-color: goldenrod; color:white;}
-    h1{color: black; font-size: 10px;}
-    p{color: blue; font-size: 10px;}
 }
